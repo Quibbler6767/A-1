@@ -1,4 +1,5 @@
-# 1a
+# A-1
+#1a
 the outer loop runs from n/2to n.
 so number of iterations is n/2
 time complexity of outer loop is
